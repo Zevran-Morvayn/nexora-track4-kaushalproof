@@ -78,7 +78,7 @@ More: [docs/tech-stack.md](docs/tech-stack.md)
 
 | Member | Role on hack day |
 |---|---|
-| [Name] (Lead) | Backend: Flask API, workflow, credentials and QR |
-| [Name] | Frontend: worker and employer screens, verify page |
-| [Name] | Frontend: assessor dashboard, design, languages |
-| [Name] | Data, AI and AWS: schema, S3/Lambda, Gemini, Rekognition, ElevenLabs |
+| Mithun A (Lead) | Backend: Flask API, workflow, credentials and QR |
+| P Prem Akarsh | Frontend: worker and employer screens, verify page |
+| Modini Siri | Frontend: assessor dashboard, design, languages |
+| Lahari S | Data, AI and AWS: schema, S3/Lambda, Gemini, Rekognition, ElevenLabs |

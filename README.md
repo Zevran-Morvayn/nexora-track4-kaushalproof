@@ -8,7 +8,7 @@
 | College | Dayananda Sagar Academy of Technology and Management |
 | Event | wHACKiest 2026 Online Ideathon |
 | Track | 4 – Localized Vocational Skill Verification |
-| Pitch deck | [Google Drive link](PASTE_DRIVE_LINK) |
+| Pitch deck | [Google Drive link](https://drive.google.com/drive/folders/1Bq-cX4o3g9NjWx5-_TFx9UtDOmUE3cQM?usp=sharing) |
 | Video pitch | [YouTube link](PASTE_YOUTUBE_LINK) |
 
 > **Blueprint phase.** Per wHACKiest rules, this repository currently holds the design and plans only. Code will be added here during the 24-hour hack day.

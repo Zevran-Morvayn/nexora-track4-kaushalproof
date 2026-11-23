@@ -68,7 +68,7 @@ More: [docs/tech-stack.md](docs/tech-stack.md)
 
 | Doc | Contents |
 |---|---|
-| [architecture.md](docs/architecture.md) | Components and how data flows between them |
+| [architecture.md](architecture.md) | Components and how data flows between them |
 | [database.md](docs/database.md) | Planned tables and relationships |
 | [api-design.md](api-design.md) | Planned REST endpoints |
 | [tech-stack.md](docs/tech-stack.md) | Each tool, its job and sponsor integrations |

@@ -70,7 +70,7 @@ More: [docs/tech-stack.md](docs/tech-stack.md)
 |---|---|
 | [architecture.md](docs/architecture.md) | Components and how data flows between them |
 | [database.md](docs/database.md) | Planned tables and relationships |
-| [api-design.md](docs/api-design.md) | Planned REST endpoints |
+| [api-design.md](api-design.md) | Planned REST endpoints |
 | [tech-stack.md](docs/tech-stack.md) | Each tool, its job and sponsor integrations |
 | [hack-day-plan.md](docs/hack-day-plan.md) | Team roles and the 24-hour build plan |
 
